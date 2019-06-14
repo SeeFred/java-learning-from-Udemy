@@ -19,7 +19,11 @@ public class StudentAccountApp {
         ac1.checkBalance();
         ac1.payTuition(600);
         ac1.checkBalance();
-        System.out.println(ac1.toString());
+        ac2.showCourses();
+        ac2.checkBalance();
+        ac2.payTuition(800);
+        System.out.println(ac2.toString());
+        
 
     }
 }
