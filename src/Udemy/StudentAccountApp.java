@@ -1,4 +1,11 @@
 package Udemy;
+/* This is concerned about four key concepts. one is about private properities and private method which are initalized in class constructor.
+* But for public method,we need to call them by instance of class.
+* Two is private static final int costofcourse, final is allowed to changed.
+* Getters and Setters for Encapsulation.
+* Not mentioned Polymorphism and Abstraction
+* toString method is Inheritance.
+*/ 
 
 public class StudentAccountApp {
     public static void main(String[] args) {
