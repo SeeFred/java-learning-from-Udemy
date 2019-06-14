@@ -23,7 +23,7 @@ public class StudentAccountApp {
         ac2.checkBalance();
         ac2.payTuition(800);
         System.out.println(ac1.toString());
-        //System.out.println(ac2.toString());
+        System.out.println(ac2.toString());
         
 
     }
